@@ -1,0 +1,7 @@
+path: C:\Users\17216\Desktop\ai_lab\ch03
+train: train
+val: train
+test: test
+
+names:
+  0: drone
